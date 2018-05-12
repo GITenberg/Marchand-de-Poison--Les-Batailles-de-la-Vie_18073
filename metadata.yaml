@@ -1,0 +1,29 @@
+_repo: Marchand-de-Poison--Les-Batailles-de-la-Vie_18073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ohnet, Georges
+    alias: Ohnet, Jorge
+    birthdate: 1848
+    deathdate: 1918
+    gutenberg_agent_id: '1336'
+    url: http://www.gutenberg.org/2009/agents/1336
+    wikipedia: http://en.wikipedia.org/wiki/Georges_Ohnet
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18073'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: 'Marchand de Poison: Les Batailles de la Vie'
+url: http://www.gutenberg.org/ebooks/18073
